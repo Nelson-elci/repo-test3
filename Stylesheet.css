@@ -73,3 +73,7 @@ header span{
 padding: 10px;
 text-align: center;
 }
+#fixed{
+    /*Just trying out something*/
+    background-color: blue;
+}
